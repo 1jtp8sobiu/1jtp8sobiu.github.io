@@ -1,7 +1,7 @@
 url_games http://nopaystation.com/tsv/PSV_GAMES.tsv
 url_dlcs http://nopaystation.com/tsv/PSV_DLCS.tsv
-url_demos http://nopaystation.com/tsv/PSV_DEMOS.tsv
-url_themes http://nopaystation.com/tsv/PSV_THEMES.tsv
+url_psv_demos http://nopaystation.com/tsv/PSV_DEMOS.tsv
+url_psv_themes http://nopaystation.com/tsv/PSV_THEMES.tsv
 url_psm_games http://nopaystation.com/tsv/PSM_GAMES.tsv
 url_psx_games http://nopaystation.com/tsv/PSX_GAMES.tsv
 url_psp_games http://nopaystation.com/tsv/PSP_GAMES.tsv
