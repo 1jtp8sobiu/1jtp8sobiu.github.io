@@ -7,4 +7,3 @@ url_psx_games http://nopaystation.com/tsv/PSX_GAMES.tsv
 url_psp_games http://nopaystation.com/tsv/PSP_GAMES.tsv
 url_psp_dlcs http://nopaystation.com/tsv/PSP_DLCS.tsv
 url_comppack https://gitlab.com/nopaystation_repos/nps_compati_packs/raw/master/
-psm_disclaimer_yes_i_read_the_readme NoPsmDrm
